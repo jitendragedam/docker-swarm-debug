@@ -14,3 +14,5 @@ To install gum please refer to [gum installation](https://github.com/charmbracel
 
 After gum is installed, one can use the [debug.sh](./debug.sh) to debug, check logs and to take tcp dump of docker services.
 
+TODO: Add steps to build tcpdump docker image
+
